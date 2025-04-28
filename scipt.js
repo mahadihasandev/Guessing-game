@@ -51,9 +51,9 @@ buttonTwo.addEventListener("click",()=>{
         count--
         chance.innerHTML=`chance:${count}`
          if(inputOne.value==inputTwo.value){
-            displayTwo.innerHTML="Player One Win";
-        }else{            
             displayTwo.innerHTML="Player Two Win";
+        }else{            
+            displayTwo.innerHTML="Player One Win";
         };
     }else{
         displayTwo.innerHTML="You are out of chance";
