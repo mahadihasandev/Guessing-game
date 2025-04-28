@@ -1,0 +1,35 @@
+.display{
+    color: red;
+}
+
+.display2{
+    color: red;
+}
+
+
+.headingTwo{
+    display: none;
+}
+
+.inputTwo{
+    display: none;
+}
+
+.buttonTwo{
+    display:none;
+}
+.chance{
+    display: none;
+}
+
+.inputOne{
+    border: solid purple;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+
+.inputTwo{
+    border: solid purple;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
